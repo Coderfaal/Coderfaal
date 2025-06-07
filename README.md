@@ -29,4 +29,7 @@ Despite calling myself *Coderfaal*, I refuse to give up — every failed build m
 
 ---
 
-> *"It’s not a bug, it’s an undocumented feature."* — Every developer ever  
+> *"It’s not a bug, it’s an undocumented feature."* — Every developer ever
+>
+> 
+> “Keep failing, but fail forward.” — @Coderfaal
