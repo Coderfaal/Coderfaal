@@ -33,3 +33,39 @@ Despite calling myself *Coderfaal*, I refuse to give up — every failed build m
 >
 > 
 > “Keep failing, but fail forward.” — @Coderfaal
+
+
+
+## 📌 Highlights & GitHub Stats
+
+---
+
+### 🧰 Tools & Tech
+- 🟤 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+- 🌿 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
+- 📦 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven)
+- 🧪 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+- 💻 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea)
+
+---
+
+### 📈 GitHub Activity
+- 📊 ![Coderfaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coderfaal&show_icons=true&theme=default)  
+- 🧮 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coderfaal&layout=compact&theme=default)
+
+---
+
+## 🎯 2025 Dev Goals
+- ✅ Build and deploy a Spring Boot project  
+- ✅ Get comfortable with Git, GitHub & version control  
+- 🕸️ Learn Docker & basic Kubernetes  
+- 🌍 Contribute to an open-source repo  
+- 🖥️ Create a full-stack app using Spring Boot + React
+
+---
+
+## 🎧 Coding Soundtrack
+Sometimes a good playlist makes everything click:  
+🎵 [LoFi Girl – Chill Coding Beats](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+
+
