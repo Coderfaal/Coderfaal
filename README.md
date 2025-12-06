@@ -54,19 +54,6 @@ I’m a **Java & Spring Boot Developer** passionate about building scalable back
 
 ---
 
-## 🐍 Contribution Snake (Auto-Updating)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Coderfaal/Coderfaal/output/dist/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Coderfaal/Coderfaal/output/dist/github-contribution-grid-snake.svg" />
-</p>
-
-
----
-
 ## ⭐ Most Active Repositories (Auto-Updated)
 <!-- ACTIVE_REPOS_START -->
 Loading latest active repositories...
