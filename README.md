@@ -46,6 +46,7 @@ I’m a **Java & Spring Boot Developer** passionate about building scalable back
   <img src="https://github-readme-stats.vercel.app/api?username=Coderfaal&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coderfaal&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Coderfaal&theme=algolia&hide_border=true" />
 </p>
