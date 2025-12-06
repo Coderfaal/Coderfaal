@@ -54,15 +54,16 @@ I’m a **Java & Spring Boot Developer** passionate about building scalable back
 
 ---
 
-# 🐍 Contribution Snake (Auto-Updating)
+## 🐍 Contribution Snake (Auto-Updating)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Coderfaal/Coderfaal/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Coderfaal/Coderfaal/output/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Coderfaal/Coderfaal/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Coderfaal/Coderfaal/output/dist/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
