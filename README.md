@@ -54,14 +54,6 @@ I’m a **Java & Spring Boot Developer** passionate about building scalable back
 
 ---
 
-## ⭐ Most Active Repositories (Auto-Updated)
-<!-- ACTIVE_REPOS_START -->
-Loading latest active repositories...
-<!-- ACTIVE_REPOS_END -->
-
-
----
-
 ## 🎯 2025 Goals  
 - Build production-ready Spring Boot projects  
 - Learn Docker, Kubernetes, CI/CD  
